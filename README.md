@@ -52,16 +52,6 @@ This project uses the **`load_digits()`** dataset from `sklearn`, which includes
 
 ---
 
-## 🖼️ Screenshots
-
-### Sample Image Upload and Prediction
-![Sample Upload](screenshots/upload.png)
-
-### Sample Predictions from Test Dataset
-![Test Predictions](screenshots/test_predictions.png)
-
----
-
 ## 🏁 Getting Started
 
 ### ✅ Prerequisites
